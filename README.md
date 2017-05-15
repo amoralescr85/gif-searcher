@@ -1,2 +1,1 @@
-# Breakable-Toy
 # gif-searcher
