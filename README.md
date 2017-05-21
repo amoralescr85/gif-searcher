@@ -6,6 +6,6 @@ as a side project.
 Contributors:
 
 Andres Morales
-John Mauran
+John Mauran 
 
 Live at : https://jmam-gif-searcher.herokuapp.com/
