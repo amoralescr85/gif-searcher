@@ -1,11 +1,11 @@
 # gif-searcher
 
 A gif search application built entirely on React
-as a side project.
+as a practice side project.
 
 Contributors:
 
 Andres Morales
-John Mauran 
+John Mauran
 
 Live at : https://jmam-gif-searcher.herokuapp.com/
