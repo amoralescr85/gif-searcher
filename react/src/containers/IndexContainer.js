@@ -62,7 +62,7 @@ class IndexContainer extends React.Component {
         </div>
         <div>
           <ul>
-          <h2 className="heading">GIF Search</h2>
+          <h2 className="heading">GIF Searcher</h2>
             {gif_render}
           </ul>
         </div>
